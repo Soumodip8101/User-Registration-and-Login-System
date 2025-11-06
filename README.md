@@ -1,4 +1,4 @@
-# PHP User Authentication System
+#User-Registration-and-Login-System
 
 A simple PHP-based user authentication system with registration, login, logout, and profile management.
 
@@ -60,4 +60,4 @@ register.php    # Registration page
 
 ## 📜 License
 This project is open-source and available under the [MIT License](LICENSE).
-# user_portal
+
